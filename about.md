@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jaseem Abid
+title: Subin Abid | Blogs
 permalink: /about
 ---
 
