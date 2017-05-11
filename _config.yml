@@ -1,15 +1,15 @@
 # Welcome to Jekyll!
 
 # Site settings
-title: Jaseem Abid
-email: jaseemabid@gmail.com
+title: Subin Abid | Blog
+email: mail@subinabid.xyz
 
 description: >
-  Jaseem Abid's personal website
+  Subin Abid's personal blog
 
 baseurl: ""
-url: "http://jaseemabid.github.io"
-username: jaseemabid
+url: "http://subinabid.github.io/Blog"
+username: subinabid
 
 # Build settings
 markdown: kramdown
