@@ -8,7 +8,7 @@ description: >
   Subin Abid's personal blog
 
 baseurl: ""
-url: "http://subinabid.github.io/Blog"
+url: "http://subinabid.github.io/blog"
 username: subinabid
 
 # Build settings
