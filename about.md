@@ -8,4 +8,4 @@ permalink: /about
 
 You can reach me over [email](mailto:mail@subinabid.xyz).
 
-Find my [resume](/Subin Abid.pdf) here.
+Find my [resume](http://subinabid.xyz/Subin Abid.pdf) here.
