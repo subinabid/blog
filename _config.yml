@@ -13,6 +13,3 @@ username: subinabid
 
 # Build settings
 markdown: kramdown
-
-gems:
-  - jemoji
