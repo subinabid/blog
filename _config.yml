@@ -5,9 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+google_analytics: Subin Abid | Blog
+title: Subin Abid | Blog
 
 defaults:
   -
@@ -16,13 +15,13 @@ defaults:
     values:
       title: Subin Abid | Blog
 
-description: Stylish Jekyll Theme
+description: Subin Abid's blog
 author:
   name: Subin Abid
   email: mail@subinabid.xyz
   github: subinabid
   twitter: subinabid
-  bio: My Bolg
+  bio: My Blog
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
