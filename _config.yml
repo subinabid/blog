@@ -6,14 +6,14 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 google_analytics: Subin Abid | Blog
-title: Subin Abid | Blog 1
+title: Subin Abid
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Subin Abid | Blog 2
+      title: Subin Abid | Blog
 
 description: Subin Abid's blog
 author:
