@@ -3,11 +3,8 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-#highlighter: rouge
+highlighter: rouge
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
 google_analytics: Subin Abid | Blog
 title: Subin Abid
 
