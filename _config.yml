@@ -7,9 +7,9 @@ highlighter: rouge
 markdown: kramdown
 
 # Syntax highlighting
-kramdown:
-    input: GFM 
-    syntax_highlighter: rouge
+#kramdown:
+#    input: GFM 
+#    syntax_highlighter: rouge
 
 google_analytics: Subin Abid | Blog
 title: Subin Abid
