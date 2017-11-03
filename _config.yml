@@ -6,11 +6,6 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 
-# Syntax highlighting
-#kramdown:
-#    input: GFM 
-#    syntax_highlighter: rouge
-
 google_analytics: Subin Abid | Blog
 title: Subin Abid
 
@@ -18,7 +13,7 @@ defaults:
   -
     scope:
       path: "" # empty string for all files
-    values:
+      values:
       title: Subin Abid | Blog
 
 description: Subin Abid's blog
