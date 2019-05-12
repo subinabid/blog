@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: How to change a Django Project name
