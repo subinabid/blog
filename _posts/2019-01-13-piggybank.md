@@ -16,3 +16,7 @@ There is no point in investing on a Sunday. But I did it anyway. I was looking f
 PS:
 1. I am not a mutual fund advisor
 2. This is in no way, a recommendation of the said fund
+
+### update on 02/07/2019
+
+I exited this fund after 3 consequtive drops in NAV. (Read housing liquidity crisis). Isn't the fund manager supposed to take care of market issues?
