@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Random thoughts on online privacy
+title: Badminton
 tags: badminton, sports
 categories:badminton, sports
 ---
