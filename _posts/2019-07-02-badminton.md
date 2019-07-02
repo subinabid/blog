@@ -2,7 +2,7 @@
 layout: post
 title: Badminton
 tags: badminton, sports
-categories:badminton
+categories: badminton
 ---
 
 I broke my badminton racket recently and decided to buy a new one. Did some research for the same and I thought i could share it. I have used the following badminton rackets:
