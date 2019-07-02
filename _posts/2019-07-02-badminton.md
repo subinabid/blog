@@ -25,6 +25,6 @@ I just had one match with the Arcsaber, will update soon.
 
 1. There is no point in buying an expensive racket for beginers. Trust me, you get excellent rackets for Rs 1000 or even below. Just avoid the ones with T-joints 
 2. Yonex makes nice ones, so does Li-ning, Ashaway, Apacs, Adidas, etc
-3. Dont care about strings at the beginning. Whatever came with the racket is good for starters. Change it in 6 months or when you break it or when you feel its too loose. Yonex BG65 is a great string and 22 lbs is a decent tension. MAx tension will be printed on you r racket. It would cost you about Rs 350.
+3. Dont care about strings at the beginning. Whatever came with the racket is good for starters. Change it in 6 months or when you break it or when you feel its too loose. Yonex BG65 is a great string and 22 lbs is a decent tension. Max tension will be printed on your racket. Beyond that, the racket would break . It would cost you about Rs 350.
 4. Mavis 10 is a good shuttle to start with
 
