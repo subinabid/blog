@@ -13,6 +13,8 @@ I broke my badminton racket recently and decided to buy a new one. Did some rese
 |Nanospeed 500|3U|BG 66 Ultimax|22 lbs| Loved these strings, Repulsion and sound |
 |Nanospeed 500|3U|BG 66 Ultimax|23 lbs| |
 |Voltric Lite|4U|Stock|stock| Head heavy racket |
-|Voltric Lite|4U|BG 66 Ultimax|23 lbs|I broke this one|
-|Arcsaber 69 Lite|5U|Stock|stock| Light weight |
+|Voltric Lite|4U|BG 66 Ultimax|23 lbs|Felt the smashes were less powerful than my Nanospeed|
+|Arcsaber 69 Lite|5U|Stock|stock|Super light weight |
+
 All Items from [Yonex](http://yonex.com/)
+For those who are new to badminton, 3U is heavier than 5U
