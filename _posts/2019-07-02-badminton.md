@@ -28,3 +28,6 @@ I just had one match with the Arcsaber, will update soon.
 3. Dont care about strings at the beginning. Whatever came with the racket is good for starters. Change it in 6 months or when you break it or when you feel its too loose. Yonex BG65 is a great string and 22 lbs is a decent tension. Max tension will be printed on your racket. Beyond that, the racket would break . It would cost you about Rs 350.
 4. Mavis 10 is a good shuttle to start with
 
+
+### update on 23/07/2019
+Have been playing with my [Arcsaber](https://www.sportsuncle.com/yonex-arcsaber-69-light-badminton-racket.html) for a while and I am absolutely in love with it.
