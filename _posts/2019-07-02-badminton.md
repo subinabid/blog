@@ -20,8 +20,6 @@ I broke my badminton racket recently and decided to buy a new one. Did some rese
 All Items are from [Yonex](http://yonex.com/) and for those who are new to badminton, 3U is heavier than 5U.
 
 
-I just had one match with the Arcsaber, will update soon.
-
 ### For those who are trying to buy their first racket
 
 1. There is no point in buying an expensive racket for beginers. Trust me, you get excellent rackets for Rs 1000 or even below. Just avoid the ones with T-joints
