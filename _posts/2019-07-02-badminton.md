@@ -15,6 +15,7 @@ I broke my badminton racket recently and decided to buy a new one. Did some rese
 |Voltric Lite|4U|Stock|stock| Head heavy racket |
 |Voltric Lite|4U|BG 66 Ultimax|23 lbs|Felt the smashes were less powerful than my Nanospeed|
 |Arcsaber 69 Lite|5U|Stock|stock|Super light weight |
+|Arcsaber 69 Lite|5U|BG 66 Ultimax|22 lbs|My favourite strings |
 
 All Items are from [Yonex](http://yonex.com/) and for those who are new to badminton, 3U is heavier than 5U.
 
@@ -28,6 +29,9 @@ I just had one match with the Arcsaber, will update soon.
 3. Dont care about strings at the beginning. Whatever came with the racket is good for starters. Change it in 6 months or when you break it or when you feel its too loose. Yonex BG65 is a great string and 22 lbs is a decent tension. Max tension will be printed on your racket. Beyond that, the racket would break . It would cost you about Rs 350.
 4. Mavis 10 is a good shuttle to start with
 
+### Update on 27/06/2019
+Broke my Voltric. Guess it couldnt take 23 pounds.
+
 
 ### Update on 23/07/2019
 Have been playing with my [Arcsaber](https://www.sportsuncle.com/yonex-arcsaber-69-light-badminton-racket.html) for a while and I am absolutely in love with it.
@@ -35,3 +39,7 @@ Have been playing with my [Arcsaber](https://www.sportsuncle.com/yonex-arcsaber-
 
 ### Update on 29/07/2019
 I broke my NS500 today, after using it for about 8 years
+
+
+### Update on 20/10/2019
+New set of strings (BG66UM) on my arcsaber. Loved it! 
