@@ -36,6 +36,3 @@ BASE_PATH:
 
 gems:
   - jekyll-paginate
-  
- plugins:
-  - jekyll-target-blank
