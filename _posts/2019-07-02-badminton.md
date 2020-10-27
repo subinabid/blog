@@ -16,6 +16,7 @@ I broke my badminton racket recently and decided to buy a new one. Did some rese
 |Voltric Lite|4U|BG 66 Ultimax|23 lbs|Felt the smashes were less powerful than my Nanospeed|
 |Arcsaber 69 Lite|5U|Stock|stock|Super light weight |
 |Arcsaber 69 Lite|5U|BG 66 Ultimax|22 lbs|My favourite strings |
+|Voltric 0.7 DG Slim|3U|Aerosonic|25 lbs|soon!|
 
 All Items are from [Yonex](http://yonex.com/) and for those who are new to badminton, 3U is heavier than 5U.
 
@@ -41,3 +42,7 @@ I broke my NS500 today, after using it for about 8 years
 
 ### Update on 20/10/2019
 New set of strings (BG66UM) on my arcsaber. Loved it! 
+
+
+### Update on 27/10/2020
+New addition - Voltric 0.7DG Slim. Yet to play with it, recovering from an ankle injury
