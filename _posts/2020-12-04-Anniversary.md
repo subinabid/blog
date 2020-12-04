@@ -19,6 +19,6 @@ I have been contemplating about this for a while. These are my musings. It is no
 
 4. A bell curve distribution of performance rating will never help team work. When the environment puts the members of a team into buckets - performers, middle benchers , and the bottom lot - there is an incentive for everyone to withhold information, backstab, and take out every dirty tactic from the quiver.
 
-5. Your work is nothing more than a breadwinner. You shoud be sincere enough to justify your salary and that is enough. Else, your cholesterol levels will go up, your BP will go up. you will get dependend on alcohol, cigerettes, and medication. One day you will fall dead on the floor. The company will pay some compensation if your family is lucky, replace you and forget you. Its the family that ultimately suffers
+5. Your work is nothing more than a breadwinner. You shoud be sincere enough to justify your salary and that is enough. Else, your cholesterol levels will go up, your BP will go up. You will get dependend on alcohol, cigerettes, and medication. One day you will fall dead on the floor. The company will pay some compensation if your family is lucky, replace you and forget you. Its the family that ultimately suffers
 
 
