@@ -27,9 +27,9 @@ All Items are from [Yonex](http://yonex.com/) except the latest strings from Li-
 ### For those who are trying to buy their first racket
 
 1. There is no point in buying an expensive racket for beginers. Trust me, you get excellent rackets for Rs 1000 or even below. Just avoid the ones with T-joints
-2. Yonex makes nice ones, so does Li-ning, Ashaway, Apacs, Adidas, etc
-3. Dont care about strings at the beginning. Whatever came with the racket is good for starters. Change it in 6 months or when you break it or when you feel its too loose. Yonex BG65 is a great string and 22 lbs is a decent tension. Max tension will be printed on your racket. Beyond that, the racket would break . It would cost you about Rs 350.
-4. Mavis 10 is a good shuttle to start with
+2. Yonex makes nice ones, so does Li-ning, Carlton, Ashaway, Apacs, Adidas, etc
+3. Dont care about strings at the beginning. Whatever came with the racket is good for starters. Change it in 6 months or when you break it or when you feel its too loose. Yonex BG65 is a great string and 22 lbs is a decent tension. Max tension will be printed on your racket. Beyond that, the racket would break . It would cost you about Rs 500.
+4. Mavis 10 is a good shuttle to start with. Go for M350 when your game improves
 
 ### Update on 27/06/2019
 Broke my Voltric. Guess it couldnt take 23 pounds.
