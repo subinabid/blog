@@ -21,8 +21,7 @@ I broke my badminton racket recently and decided to buy a new one. Did some rese
 |Voltric 0.7 DG Slim|3U|Li-Ning No7|25 lbs|Racket setup feels better than before|
 |Voltric 0.7 DG Slim|3U|BG 65|25 lbs|Back to Basic Strings|
 
-All Items are from [Yonex](http://yonex.com/) except the latest strings from Li-ning
-For those who are new to badminton, 3U is heavier than 5U.
+All Items are from [Yonex](http://yonex.com/) except the latest strings from Li-ning. For those who are new to badminton, 3U is heavier than 5U.
 
 
 ### For those who are trying to buy their first racket
