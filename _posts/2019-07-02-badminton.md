@@ -16,9 +16,12 @@ I broke my badminton racket recently and decided to buy a new one. Did some rese
 |Voltric Lite|4U|BG 66 Ultimax|23 lbs|Felt the smashes were less powerful than my Nanospeed|
 |Arcsaber 69 Lite|5U|Stock|stock|Super light weight |
 |Arcsaber 69 Lite|5U|BG 66 Ultimax|22 lbs|My favourite strings |
-|Voltric 0.7 DG Slim|3U|Aerosonic|25 lbs|soon!|
-
-All Items are from [Yonex](http://yonex.com/) and for those who are new to badminton, 3U is heavier than 5U.
+|Voltric 0.7 DG Slim|3U|Aerosonic|25 lbs|I love heavy rackets. The strings did not last though|
+|Arcsaber 69 Lite|5U|Li-Ning No7|25 lbs|I am not sure if it is because of the strings or my training, I can drive well with this  |
+|Voltric 0.7 DG Slim|3U|Li-Ning No7|25 lbs|Racket setup feels better than before|
+|Voltric 0.7 DG Slim|3U|BG 65|25 lbs|Back to Basic Strings|
+All Items are from [Yonex](http://yonex.com/) except the latest strings from Li-ning
+For those who are new to badminton, 3U is heavier than 5U.
 
 
 ### For those who are trying to buy their first racket
@@ -46,3 +49,13 @@ New set of strings (BG66UM) on my arcsaber. Loved it!
 
 ### Update on 27/10/2020
 New addition - Voltric 0.7DG Slim. Yet to play with it, recovering from an ankle injury
+
+
+### Update - November 2020
+I am in love with Voltric + Aerosonic Strings. People advise me to move to lighter racket, but i just love this one
+Broke the strings in less than a month
+
+
+### Update - Jan 2021
+Tried Li-Ning No7 Strings on both the rackets - V7DG & A69L. No7 is thicker than anything i have used before. Retains tension for longer period, but broke sooner than I expected. Defenitely heavy on the wrist
+Moved to BG65
