@@ -20,6 +20,7 @@ I broke my badminton racket recently and decided to buy a new one. Did some rese
 |Arcsaber 69 Lite|5U|Li-Ning No7|25 lbs|I am not sure if it is because of the strings or my training, I can drive well with this  |
 |Voltric 0.7 DG Slim|3U|Li-Ning No7|25 lbs|Racket setup feels better than before|
 |Voltric 0.7 DG Slim|3U|BG 65|25 lbs|Back to Basic Strings|
+
 All Items are from [Yonex](http://yonex.com/) except the latest strings from Li-ning
 For those who are new to badminton, 3U is heavier than 5U.
 
@@ -52,8 +53,7 @@ New addition - Voltric 0.7DG Slim. Yet to play with it, recovering from an ankle
 
 
 ### Update - November 2020
-I am in love with Voltric + Aerosonic Strings. People advise me to move to lighter racket, but i just love this one
-Broke the strings in less than a month
+I am in love with Voltric + Aerosonic Strings. People advise me to move to lighter racket, but i just love this one. Broke the strings in less than a month
 
 
 ### Update - Jan 2021
