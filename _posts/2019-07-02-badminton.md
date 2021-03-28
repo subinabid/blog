@@ -56,5 +56,8 @@ I am in love with Voltric + Aerosonic Strings. People advise me to move to light
 
 
 ### Update - Jan 2021
-Tried Li-Ning No7 Strings on both the rackets - V7DG & A69L. No7 is thicker than anything i have used before. Retains tension for longer period, but broke sooner than I expected. Defenitely heavy on the wrist
+Tried Li-Ning No7 Strings on both the rackets - V7DG & A69L. No7 is thicker than anything I have used before. Retains tension for longer period, but broke sooner than I expected. Defenitely heavy on the wrist
 Moved to BG65
+
+### Update  - 28/03/2021
+I broke my Arcsaber 69 lite today. Tbh, I should not have hit it on the floor. Totally my mistake. 
