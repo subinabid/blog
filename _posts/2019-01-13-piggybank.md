@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to invest 100 Rupees
+tags: finance
+categories: finance
 ---
 
 Lazy Sunday. I decided to drive to [Bijapur](https://en.wikipedia.org/wiki/Bijapur), the nearest town to get some groceries. Luckily a friend of mine was already there and he promised to buy the few stuff I want. I saved almost Rupees 500 on petrol and toll(*more about it later*). Suddenly the idea strikes me, if I were to actually **save** amounts like this, which I would invest / deposit / save somewhere, over a period of time, lets say a year, would not it cumulate to a decent figure. Think of the last time you wanted a pint of beer and your fridge was empty. You were too lazy to go the store and guess what? you saved 80 rupees! What if this repeats 50 times in a year and you were to park that 80 rupees systematically every time? Something to think about.
