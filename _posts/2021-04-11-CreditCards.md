@@ -8,6 +8,7 @@ categories: finance
 **Declaration**: I am not an expert on the subject, just learning on the go.
 
 I hold a few credit cards and people ask me why I hold more than one. True reason is for the various offers, and the curiosity of trying a new card. Personally I advise that everyone should have a credit card, even if you are not using it actively. There are multiple reasons.
+
 * Emergency fund - Imagine being admitted to a hospital
 * Your debit card is not working - Assuming that you put all your money in one SB account and banks usually issue only 1 debit card (*You can actually get more than one debit card per SB account*). If the card fails in an emergency, you will be in a very difficult situation. Keeping a backup debit card may not be practical, but you can have a CC
 * Improve your credit score
@@ -97,17 +98,30 @@ The annual fee for this card is Rs 10000, but Yes Bank has been offering the car
 ![Citi Rewards](/assets/media/creditcards/citirewards.png)
 
 
-[Citi Webpage](https://www.online.citibank.co.in/credit-card/rewards/citi-rewards-credit-card)
+[Citi Website](https://www.online.citibank.co.in/credit-card/rewards/citi-rewards-credit-card)
 
 
-There isnt anything much attractive about this crd other than the looks. The card is issues free for first year and the fee for subsequent year will be Rs 1000, which will be waived off if you spend Rs 30,000 in the previous year.    
+There isnt anything much attractive about this crd other than the looks. The card is issues free for first year and the fee for subsequent year will be Rs 1000, which will be waived off if you spend Rs 30,000 in the previous year. With Citi winding up its retail business in India, it would be interesting to hold on to this card for a while to see who would buy this      
 
 
 ### SBI Simply Click
 
 
-This is the newest addition to my card list. 
+![SBI Simply Click](/assets/media/creditcards/sbi-silplyclick.webp)
 
+
+
+[SBI Simply Click webiste ](https://www.sbicard.com/en/personal/credit-cards/shopping/simplyclick-sbi-card.page)
+
+
+This is the newest addition to my card list. This is a basic card for someone who wants to get a new card, mostly for online purchases. Annual fee is Rs 499 which will be waived on if you spend 1 lakh in the previous year. For the first year fee, you get an Amazon voucher worth Rs500. There are some good offers on SBI cards these days including 5 % cash back on Amazon via Yono. Add on cards are free You also get Cleartrip vouchers wortk Rs 2000 for every Rs1,00,000 spent in a year.
+
+
+Rewards - 1 RP / Rs 100 spend
+
+10X rewards on Amazon / BookMyShow / Cleartrip / Lenskart / Netmeds
+
+5X rewards on all other online spends
 
 ### OneCard
 
