@@ -114,7 +114,7 @@ There isnt anything much attractive about this crd other than the looks. The car
 [SBI Simply Click webiste ](https://www.sbicard.com/en/personal/credit-cards/shopping/simplyclick-sbi-card.page)
 
 
-This is the newest addition to my card list. This is a basic card for someone who wants to get a new card, mostly for online purchases. Annual fee is Rs 499 which will be waived on if you spend 1 lakh in the previous year. For the first year fee, you get an Amazon voucher worth Rs500. There are some good offers on SBI cards these days including 5 % cash back on Amazon via Yono. Add on cards are free You also get Cleartrip vouchers wortk Rs 2000 for every Rs1,00,000 spent in a year.
+This is the newest addition to my card list. This is a basic card for someone who wants to get a new card, mostly for online purchases. Annual fee is Rs 499 which will be waived on if you spend 1 lakh in the previous year. For the first year fee, you get an Amazon voucher worth Rs500. There are some good offers on SBI cards these days including 5% cash back on Amazon via Yono. Add on cards are free You also get Cleartrip vouchers wortk Rs 2000 for every Rs1,00,000 spent in a year.
 
 
 Rewards - 1 RP / Rs 100 spend
@@ -123,15 +123,20 @@ Rewards - 1 RP / Rs 100 spend
 
 5X rewards on all other online spends
 
+
 ### OneCard
+
+
+![One card](/assets/media/creditcards/blog_get_onecard.png)
 
 
 [OneCard](https://getonecard.app/)
 
 
-![One card](/assets/media/creditcards/blog_get_onecard.png)
+This card is made of metal and it looks cool! No joining fee and no annual fee. The card is issued by a new company called FPL technologies along with IDFC bank. I ocassionally see discounts for IDFC cards on Swiggy and Zomato. I didnot expect any great offers here, but while writing this blog, i digged a little deeper. The card lists their offers on their mobile app and some offers like myntra, easemytrip, practo, ajio etc are useful
 
-This card is made of metal and it looks cool! No joining fee and no annual fee. Dont expect any great offers here. The card is issued by a new company called FPL technologies along with IDFC bank. I ocassionally see discounts for IDFC cards on Swiggy and Zomato. 
+
+OneCard has the easiest application process. There is no paperwork and the card application  is through a mobile app. Approval process is instant and the card will be delivered to you in a few days.
 
 
 ### Note
