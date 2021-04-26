@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Credit Cards 
+title: A story of my experiments with Credit Cards 
 tags: finance
 categories: finance
 ---
