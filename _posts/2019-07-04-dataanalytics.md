@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why data analytics, business analytics and IT are very different jobs
-tags: data, analytics
+tags: data analytics
 categories: analytics
 ---
 

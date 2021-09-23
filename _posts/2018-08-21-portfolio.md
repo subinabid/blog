@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Portfolio
+tags: personal
+categories: personal
 ---
 
 A few of my works

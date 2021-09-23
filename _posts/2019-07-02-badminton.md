@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Badminton
-tags: badminton, sports
+tags: badminton sports
 categories: badminton
 ---
 

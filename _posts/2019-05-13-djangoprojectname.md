@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to change a Django Project name
-tags: software, python, django
+tags: software python django
 categories: software python django
 ---
 
