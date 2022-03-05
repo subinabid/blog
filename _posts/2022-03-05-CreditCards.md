@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A story of my experiments with Credit Cards 
+title: A story of my experiments with Credit Cards - Part 2 
 tags: finance
 categories: finance
 ---
@@ -28,7 +28,7 @@ The is a very rewarding card for someone who makes purchases on Amazon. This cou
 
 ### ICICI Sapphiro
 
-![ICICI Sapphiro](/assets/media/creditcards/ICICI-Bank-NRI-Credit-Card.jpeg)
+![ICICI Sapphiro](/assets/media/creditcards/ICICI-Bank-NRI-Credit-Card.jpg)
 
 
 [ICICI Sapphiro](https://www.icicibank.com/Personal-Banking/cards/Consumer-Cards/Credit-Card/sapphiro-card/key-privileges.page)
