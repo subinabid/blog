@@ -133,19 +133,19 @@ Rewards - 1 RP / Rs 100 spend
 [OneCard](https://getonecard.app/)
 
 
-This card is made of metal and it looks cool! There is no joining fee or annual fee. The card is issued by a company called FPL technologies along with IDFC bank. I ocassionally see discounts for IDFC cards on Swiggy and Zomato. I didnot expect any great offers here, but while writing this blog, i digged a little deeper. The card lists their offers on their mobile app and some offers like myntra, easemytrip, practo, ajio etc are useful
+This card is made of metal and it looks cool! There is no joining fee or annual fee. The card is issued by a company called FPL technologies along with IDFC bank. I occasionally see discounts for IDFC cards on Swiggy and Zomato. I didnot expect any great offers here, but while writing this blog, i digged a little deeper. The card lists their offers on their mobile app and some offers like myntra, easemytrip, practo, ajio etc are useful
 
 
 OneCard has the easiest application process. There is no paperwork and the card application  is through a mobile app. Approval process is instant and the card will be delivered to you in a few days.
 
-Update - It is impossible to get this card without a credt score. Yoou can read about it [here]({% post_url 2021-05-14-creditcards %})
-
+**Update** - It is impossible to get this card without a credt score. You can read about it [here]({% post_url 2021-05-14-creditcards %})
+**Update 2** - Onecard is offering 30% discount, limited to ₹150 on Swiggy purchases. So Get one if you buy frequently from Swiggy  
 
 ### Note
 
 
 * Diners Black and First Exclusive are the super premium cards offered by the respective banks
 * Amex MRC, Citi rewards and SBI Simply click are regular products
-* Few cards with No annual fee are [OneCard](https://getonecard.app/), and Yes bank cards for a limited time. There are lot of other options 
+* Few cards with No annual fee are ICICI Amazon pay,  [OneCard](https://getonecard.app/), Yes bank cards for a limited time, ICICI occasionally,  . There are lot of other options 
 * Every card has certain offers that the banks do not explicitly mention, which is given by the card company VISA / Mastercard. For example, even debit cards - Visa Platinum / Mastercard give you free lounge access at certain airports
 * Certain banks offer credit card against FDs. You need not opt for this as there are lot of banks out there without this demand. 
