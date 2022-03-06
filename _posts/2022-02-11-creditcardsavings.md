@@ -1,27 +1,38 @@
 ---
 layout: post
-title: 90K Savings with Credit cards over 14 months
+title: 92K Savings with Credit cards over 14 months
 tags: finance
 categories: finance
 ---
 
-I have been advocating credit cards through my [blog]({% post_url 2021-04-11-CreditCards %}) for a while and I write my experience with credit cards in my blogs. I tried to note down the money I saved using various cards since January 2021 and it comes to about  90K. Here is a summary of how.
+I have been advocating credit cards through my [blog]({% post_url 2021-04-11-CreditCards %}) for a while and I write my experience with credit cards in my blogs. I tried to note down the money I saved using various cards since January 2021 and it comes to about  92K. Here is a summary of how.
 
 |Sl|Category|Amount|
 | :--- | :--- | ---: |
-|1 | Reward point | 55k|
+|1 | Reward point | 56k|
 |2 | Discount |10k|
 |3 | Cash back |13k|
-|4 | Voucher |12k|
-|  |Total | 90k|
+|4 | Voucher |13k|
+|  |**Total** | **93k**|
 
-The biggest savings has been from my HDFC Diners Black credit card, mostly in redeeming reward points as flight tickets on HDFC Smartbuy
+The biggest savings has been from my HDFC Diners Black credit card, mostly in redeeming reward points as flight tickets on HDFC Smartbuy. Few high value transactions are:
+
+- HDFC - 15K on flights
+- HDFC - 12K on flights
+- Amex - 9K on Reward Points
+- HDFC - 7.5K Cashback from Croma
+- HDFC - 3K Cashback on Apple Ipad
+
 
 |Card | Amount|
 |---            | ---: |
-|HDFC Diners    | 66K |
-|Amex MRC       |10K |
-|Citi Rewards   | 3K |
+|HDFC Diners    | 68K |
+|Amex MRC       |10.5K |
+|Citi Rewards   | 3.5K |
+|One Card   | 3K |
+|Amazon pay   | 2K |
+|SBI Simply Click   | 2K |
+|ICICI   | 1.5K |
 
 ## How?
 
