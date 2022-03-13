@@ -13,14 +13,14 @@ After spending a lot of years in a place where I did not go for movies, I moved 
 | :--- | ---: |
 |3 tickets |1050|
 |Popcorn  | 430| 
-|Convenience fee
-(*I hate this, more on that later*) |156| 
+|Convenience fee (*I hate this, more on that later*) |156| 
 |Misc |3|
 |**Total** | **1633**|
 
 **Payment**
 
 | | |
+| :--- | ---: |
 | Gift Voucher | 1500| 
 | SBI debit card points | 74|
 | Cash | 65|
