@@ -1,8 +1,5 @@
 .DS_Store
-_config.yml
-_site/*
+_site
 .jekyll-cache
 .vscode
-*Thumbs.db
 Gemfile.lock
-Gemfile
