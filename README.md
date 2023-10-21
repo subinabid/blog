@@ -1,4 +1,4 @@
 Subin's Blog
 =====
 
-Dbyll theme for jekyll.  
+Powered by jekyll
