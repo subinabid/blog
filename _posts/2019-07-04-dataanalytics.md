@@ -27,7 +27,7 @@ where, β1 is the intercept and β2 is the slope. Collectively, they are called 
 
 While building a regression model, we need to choose the model variables correctly, Correlation analysis can give relationship between 2 independent variables. Correlation can take values between -1 to +1, -1 being perfect inverse relationship (y α 1/x) and 1 being a perfect direct relationship (y α x). 0 is a weak relationship. If I was using ‘R’ (software)for doing an analysis, I would write 
 
-```cor($variable1, $ variable2)```
+```cor($variable1, $variable2)```
 
 Consider a project where we are trying to create a model which predicts NTPC’s Revenue, Expenses and Profit (REPModel) for the coming years. We have historic data with us, using which, we are building a model.
 
@@ -43,7 +43,7 @@ To make a mathematical model we need to choose the variables that contribute to 
 
 If we run correlation model, with NTPC’s profits and Japan’s average age, we will get a very high value of correlations. 
 
-![Correlation_graph](/assets/media/DA_Profit_vs_age.png)
+![Correlation_graph](/assets/media/others/DA_Profit_vs_age.png)
 
 
 Pure mathematically, we could build a predictive model with these 2 variables. But someone who has knowledge of finance / business would definitely know that Japanese are not increasing our profits. To understand that “correlation doesn’t meant causation”, someone needs to understand the business model. If we were trying to build a model to predict the profit for some company who makes adult diapers, then this would have been a perfect fit. And, to appreciate the difference between 2 models, the analyst needs to know the business environment. 
