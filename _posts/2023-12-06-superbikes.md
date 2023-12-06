@@ -28,9 +28,8 @@ Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/d
 ## Service experience
 
 ### September
-|---|---|---|---|---|---|---|
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---|---|---|---|---|---|---|
+|---:|---:|---:|---:|---:|---:|---:|
 |1|2|3|4|5|6|7|
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
@@ -39,9 +38,8 @@ Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/d
 
 
 ### October
-|---|---|---|---|---|---|---|
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---|---|---|---|---|---|---|
+|---:|---:|---:|---:|---:|---:|---:|
 |||1|2|3|4|5|
 |6|7|8|9|10|11|12|
 |13|14|15|16|17|18|19|
@@ -50,9 +48,8 @@ Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/d
 
 
 ### November
-|---|---|---|---|---|---|---|
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---|---|---|---|---|---|---|
+|---:|---:|---:|---:|---:|---:|---:|
 ||||||1|2|3|
 |4|5|6|7|8|9|10|
 |11|12|13|14|15|16|17|
@@ -61,9 +58,8 @@ Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/d
 
 
 ### December
-|---|---|---|---|---|---|---|
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---|---|---|---|---|---|---|
+|---:|---:|---:|---:|---:|---:|---:|
 |||||||1|
 |2|3|4|5|6|7|8|
 |9|10|11|12|13|14|15|
