@@ -10,6 +10,7 @@ I bought my first bike in 2010 - TVS Apache RTR 160 and it has been a fun bike t
 ### The good
 
 - Triumph Speed 400 is an amazing bike. At 310K on road price, its a great buy.
+- look amazing. I love the retro styling.
 - A pleasure to ride. The torque is amazing and the bike is very stable at high speeds. 80 Kmph is the sweet spot for the bike. Hits the mark with little effort, just the hands on throttle and the bike does the rest.
 - Very comfortable to ride. Sitting position is upright and the seat is perfect. Handle could have been 2 inches higher. (I am 6' tall)
 - Handles well and is easy to maneuver in traffic.
@@ -24,4 +25,48 @@ I bought my first bike in 2010 - TVS Apache RTR 160 and it has been a fun bike t
 
 Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/dealer-search) in India. There are stories that they would be opening new shops soon. IMO, if there is no service within a short drive, stay away. You would have to travel to the dealer for every service and that is a pain. Now, if you have a dealer near you, that means you are in a big city. Big cities have traffic and traffic means you would be riding in traffic. If you are OK with the heating issues, go ahead. Else, you you have another daily ride, go ahead.
 
+## Service experience
 
+### September
+|---|---|---|---|---|---|---|
+|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|---|---|---|---|---|---|---|
+|1|2|3|4|5|6|7|
+|8|9|10|11|12|13|14|
+|15|16|17|18|19|20|21|
+|22|23|24|25|26|27|28|
+|29|30||||||
+
+
+### October
+|---|---|---|---|---|---|---|
+|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|---|---|---|---|---|---|---|
+|||1|2|3|4|5|
+|6|7|8|9|10|11|12|
+|13|14|15|16|17|18|19|
+|20|21|22|23|24|25|26|
+|27|28|29|30|31||||
+
+
+### November
+|---|---|---|---|---|---|---|
+|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|---|---|---|---|---|---|---|
+||||||1|2|3|
+|4|5|6|7|8|9|10|
+|11|12|13|14|15|16|17|
+|18|19|20|21|22|23|24|
+|25|26|27|28|29|30||
+
+
+### December
+|---|---|---|---|---|---|---|
+|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|---|---|---|---|---|---|---|
+|||||||1|
+|2|3|4|5|6|7|8|
+|9|10|11|12|13|14|15|
+|16|17|18|19|20|21|22|
+|23|24|25|26|27|28|29|
+|30|31||||||
