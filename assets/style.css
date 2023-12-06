@@ -1,0 +1,16 @@
+tbody {
+    text-align: right;
+}
+
+.imp-day {
+    background: #07ad94;
+}
+
+.meh-day {
+    background: #ebc83b;
+}
+
+.bad-day {
+    background: #ad0725;
+    color: beige;
+}

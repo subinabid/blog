@@ -23,46 +23,8 @@ I bought my first bike in 2010 - TVS Apache RTR 160 and it has been a fun bike t
 
 ## Should you buy?
 
-Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/dealer-search) in India. There are stories that they would be opening new shops soon. IMO, if there is no service within a short drive, stay away. You would have to travel to the dealer for every service and that is a pain. Now, if you have a dealer near you, that means you are in a big city. Big cities have traffic and traffic means you would be riding in traffic. If you are OK with the heating issues, go ahead. Else, you you have another daily ride, go ahead.
+Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/dealer-search) in India. There are stories that they would be opening new shops soon. IMO, if there is no service within a short drive, stay away. You would have to travel to the dealer for every service and that is a pain. Now, if you have a dealer near you, that means you are in a big city. Big cities have traffic and traffic means you would be riding in traffic. If you are OK with the heating issues, go ahead. Else, if you have another daily ride, go ahead.
 
-## Service experience
+## Overall experience
 
-### September
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---:|---:|---:|---:|---:|---:|---:|
-|1|2|3|4|5|6|7|
-|8|9|10|11|12|13|14|
-|15|16|17|18|19|20|21|
-|22|23|24|25|26|27|28|
-|29|30||||||
-
-
-### October
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---:|---:|---:|---:|---:|---:|---:|
-|||1|2|3|4|5|
-|6|7|8|9|10|11|12|
-|13|14|15|16|17|18|19|
-|20|21|22|23|24|25|26|
-|27|28|29|30|31||||
-
-
-### November
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---:|---:|---:|---:|---:|---:|---:|
-||||||1|2|3|
-|4|5|6|7|8|9|10|
-|11|12|13|14|15|16|17|
-|18|19|20|21|22|23|24|
-|25|26|27|28|29|30||
-
-
-### December
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|---:|---:|---:|---:|---:|---:|---:|
-|||||||1|
-|2|3|4|5|6|7|8|
-|9|10|11|12|13|14|15|
-|16|17|18|19|20|21|22|
-|23|24|25|26|27|28|29|
-|30|31||||||
+{% include_relative 2023-12-06-superbikes-calendar.html %}
