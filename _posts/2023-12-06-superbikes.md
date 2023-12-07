@@ -27,4 +27,4 @@ Triumph has a very limited [network](https://www.triumphmotorcycles.in/dealers/d
 
 ## Overall experience
 
-{% include_relative 2023-12-06-superbikes-calendar.html %}
+{% include content/2023-12-06-superbikes-calendar.html %}
