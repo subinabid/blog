@@ -10,8 +10,8 @@ I bought my first bike in 2010 - TVS Apache RTR 160 and it has been a fun bike t
 ### The good
 
 - Triumph Speed 400 is an amazing bike. At 310K on road price, its a great buy.
-- look amazing. I love the retro styling.
-- A pleasure to ride. The torque is amazing and the bike is very stable at high speeds. 80 Kmph is the sweet spot for the bike. Hits the mark with little effort, just the hands on throttle and the bike does the rest.
+- Looks amazing. I love the retro styling.
+- A pleasure to ride. The torque is adequate and the bike is very stable at high speeds. 80 Kmph is the sweet spot for the bike. Hits the mark with little effort, just the hands on throttle and the bike does the rest.
 - Very comfortable to ride. Sitting position is upright and the seat is perfect. Handle could have been 2 inches higher. (I am 6' tall)
 - Handles well and is easy to maneuver in traffic.
 
