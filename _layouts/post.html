@@ -21,5 +21,15 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.tags %}
+  <div class="post-content post-tags" itemprop="articleBody">
+    <h4>Tags</h4>
+
+    {% for tag in page.tags %}
+    <a class="p-category" href="{{ site.url | relative_url }}/tags#{{ tag | slugify }}">{{ tag }}</a> |
+    {% endfor %}
+  </div>
+  {% endif%}
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

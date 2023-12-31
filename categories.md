@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Categories
-permalink: /categories/
+permalink: /categories
 ---
 
 {% assign sorted_categories = site.categories | sort %}
