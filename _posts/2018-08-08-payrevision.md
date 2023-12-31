@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pay Revision!
-tags: work finance
-categories: work finance
+tags: Work Finance
+categories: Work Finance
 ---
 Finally figured out what happened during the last pay revision!
 

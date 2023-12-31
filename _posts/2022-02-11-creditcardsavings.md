@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 92K Savings with Credit cards over 14 months
-tags: finance
-categories: finance
+categories: Finance
+tags: Finance CreditCard
 ---
 
 I have been advocating credit cards through my [blog]({% post_url 2021-04-11-CreditCards %}) for a while and I write my experience with credit cards in my blogs. I tried to note down the money I saved using various cards since January 2021 and it comes to about  92K. Here is a summary of how.

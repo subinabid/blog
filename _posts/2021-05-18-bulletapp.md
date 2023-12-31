@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Credit card alternative - for small needs
-tags: finance
-categories: finance
+categories: Finance
+tags: Finance
 ---
 
 

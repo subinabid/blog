@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Should you buy an exotic bike in India?
-tags: bike, triumph
-categories: bike
+categories: Bike
+tags: Bike Triumph
 ---
 
 I bought my first bike in 2010 - TVS Apache RTR 160 and it has been a fun bike to drive. After 13 years, I decided to upgrade and bought a Triumph Speed 400. You can read the entire experience in the previous [blog]({% post_url 2023-10-21-triumph %}). The ownership experience makes me think if I should have bought a Triumph or any other exotic bike in India. I am not sure if this can be extrapolated to all brands, but I am sure this is the case with Triumph.

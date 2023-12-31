@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Who makes money when you buy a bike?
-tags: bike, finance
-categories: finance
+categories: Finance
+tags: Bike Finance
 ---
 
 I have written enought about my bike [buying experience]({% post_url 2023-10-21-triumph %}). I have also written about the [ownership experience]({% post_url 2023-12-06-superbikes %}). Now, I want to talk about the money. Who makes money when you buy a bike?

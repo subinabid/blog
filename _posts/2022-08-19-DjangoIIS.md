@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Deploy Django app on IIS on Windows Server 
-tags: python django
-categories: python
+categories: IT Python
+tags: Python Django
 ---
 
 I have a Django enterprise app which needs to be deployed on a Windows server with IIS. There are a lot of articles on the internet on how to do it, but I am going to focus on issues I faced during the deployment.

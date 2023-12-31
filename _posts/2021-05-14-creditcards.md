@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Further experiments with Credit cards
-tags: finance
-categories: finance
+categories: Finance
+tags: Finance CreditCard
 ---
 
 My cousin recently returned from a foreign country. He has never held a credit card and decided to get one. Due to the ongoing pandemic, he wanted to try something absolutely online without any paperwork. Based on my previous [post]({% post_url 2021-04-11-CreditCards %}), I recommended OneCard. And the story begins.

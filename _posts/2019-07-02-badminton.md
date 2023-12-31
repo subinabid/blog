@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Badminton
-tags: badminton sports
-categories: badminton
+tags: Sports Badminton 
+categories: Sports Badminton Fitness
 ---
 
 I broke my badminton racket recently and decided to buy a new one. Did some research for the same and I thought i could share it. I have used the following badminton rackets:
 
 |Racket|Weight|String|Tension|Remarks|
-|------|------|------|------:|------|
+|:------|------:|:------|------:|:------|
 |Nanospeed 500|3U|Stock|Stock| This is a heavy racket |
 |Nanospeed 500|3U|BG 66 Ultimax|22 lbs| Loved these strings, Repulsion and sound |
 |Nanospeed 500|3U|BG 66 Ultimax|23 lbs| |

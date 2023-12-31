@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 1 year work anniversary
-tags: work
-categories: work
+categories: Work
+tags: Work NTPC
 ---
 
 I completed a year in my current department yesterday. 

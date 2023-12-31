@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Why data analytics, business analytics and IT are very different jobs
-tags: data analytics
-categories: analytics
+tags: DataAnalytics
+categories: Analytics Data IT
 ---
 
 IT department is a confusing affair (where I work). What exactly do they do?

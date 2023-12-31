@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to change a Django Project name
-tags: software python django
-categories: software python django
+tags: Python Django
+categories: Software Python Django IT
 ---
 
 If you are reading this, then, most probably you are already working on your project in Django. Running the command  `django-admin startproject ProjectName` easily starts the project for you. Nothing complicated here. Imagine you have already worked on your project for a while and you want to rename it.

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lets model a toyplane 
-tags: hobbies
-categories: hobbies
+categories: Hobbies
+tags: Hobbies
 ---
 Today was a sunday spent on CAD. The kid was playing with ***my :)*** toy plane and I thought I could make a 3D model of it. Can get it 3D printed, maybe. 
 

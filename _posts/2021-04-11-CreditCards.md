@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A story of my experiments with Credit Cards 
-tags: finance
-categories: finance
+categories: Finance
+tags: Finance CreditCard
 ---
 
 **Declaration**: I am not an expert on the subject, just learning on the go.

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to watch a movie for (*almost*) free 
-tags: finance
-categories: finance
+categories: Finance
+tags: Finance CreditCard
 ---
 
 After spending a lot of years in a place where I did not go for movies, I moved to Noida in 2019 and started going to movies again. Of course I [blogged]({% post_url 2021-03-28-movie %}) about it! Last week, I went for another one and this time the ticket - popcorn included :) was free.  Here is how:
