@@ -13,12 +13,13 @@ url: "https://blog.sabid.in"
 
 # Blog settings
 show_excerpts: True
-paginate: 4
+paginate: 6
 paginate_path: "page:num"
 
 # Social
 github_username: subinabid
 instagram_username: 5.hydroxy.tryptamine
+linkedin_username: subinabid
 
 # Build settings
 # theme: minima
